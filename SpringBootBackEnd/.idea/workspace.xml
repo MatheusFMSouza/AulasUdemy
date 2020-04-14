@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f578b2a2-66be-4078-9bdc-620c4ad0da87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaSpringBootBackEnd/JavaSpringBootBackEnd.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\AulasUdemy\WorkspaceNetEclipse\AulasUdemy\SpringBootBackEnd\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aVhwVs13gvsQPLsqjC0ZeQWKBI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="spring-batch-core-2.2.6.RELEASE.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/spring-batch-core-2.2.6.RELEASE.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.spring-batch-core-2.2.6.RELEASE.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f578b2a2-66be-4078-9bdc-620c4ad0da87" name="Default Changelist" comment="" />
+      <created>1586826906152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586826906152</updated>
+      <workItem from="1586826911674" duration="1147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1208" y="108" key="#Plugins" timestamp="1586827084938">
+      <screen x="-1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="-1208" y="108" key="#Plugins/0.0.1280.720/-1600.0.1600.900@-1600.0.1600.900" timestamp="1586827084938" />
+    <state x="-1021" y="191" key="FileChooserDialogImpl" timestamp="1586828500285">
+      <screen x="-1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="-1021" y="191" key="FileChooserDialogImpl/0.0.1280.720/-1600.0.1600.900@-1600.0.1600.900" timestamp="1586828500285" />
+    <state width="1557" height="235" key="GridCell.Tab.0.bottom" timestamp="1586828598066">
+      <screen x="-1600" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.bottom/0.0.1280.720/-1600.0.1600.900@-1600.0.1600.900" timestamp="1586828598066" />
+    <state width="1557" height="235" key="GridCell.Tab.0.center" timestamp="1586828598066">
+      <screen x="-1600" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.center/0.0.1280.720/-1600.0.1600.900@-1600.0.1600.900" timestamp="1586828598066" />
+    <state width="1557" height="235" key="GridCell.Tab.0.left" timestamp="1586828598066">
+      <screen x="-1600" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.left/0.0.1280.720/-1600.0.1600.900@-1600.0.1600.900" timestamp="1586828598066" />
+    <state width="1557" height="235" key="GridCell.Tab.0.right" timestamp="1586828598066">
+      <screen x="-1600" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.right/0.0.1280.720/-1600.0.1600.900@-1600.0.1600.900" timestamp="1586828598066" />
+    <state x="-1418" y="13" key="new project wizard" timestamp="1586828501803">
+      <screen x="-1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="-1418" y="13" key="new project wizard/0.0.1280.720/-1600.0.1600.900@-1600.0.1600.900" timestamp="1586828501803" />
+    <state x="-1137" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1586827054533">
+      <screen x="-1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="-1137" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/-1600.0.1600.900@-1600.0.1600.900" timestamp="1586827054533" />
+  </component>
+</project>
