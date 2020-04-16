@@ -1,4 +1,4 @@
-package br.com.matheusudemy.kafka.ibgeservice.gateway.json;
+package br.com.matheusudemy.kafka.ibgewrapper.gateway.json;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,8 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class EstadoRequestTopicJSON {
-
+public class EstadoRequestTopicJson {
     private String uf;
-
 }
