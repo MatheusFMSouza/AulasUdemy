@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Sansung s20+",
+      "price": 5000.89
+    },
+    {
+      "id": 4,
+      "name": "Notebook Lunar NAVE",
+      "price": 4793.89
+    },
+    {
+      "name": "Nave",
+      "price": "500.00",
+      "id": 6
+    }
+  ]
+}

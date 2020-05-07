@@ -1,0 +1,13 @@
+form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+form .segundoCampo{
+margin-bottom: 15px;
+}
+
+button{
+    margin-right: 15px;
+}
