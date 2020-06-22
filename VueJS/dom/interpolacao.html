@@ -1,0 +1,24 @@
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+<div id="app">
+    <p>{{contador}}</p>
+    <p>{{contador > 10 ? 'contador maior que 10': 'menor que 10'}}</p>
+    <button v-on:click="somar">Somar 1</button>
+
+</div>
+
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            contador: 0,
+            x: 0,
+            y: 0
+        },
+        methods: {
+            somar: function () {
+                return this.contador ++;
+            }
+        }
+    })
+</script>
